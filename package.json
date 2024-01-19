@@ -1,0 +1,11 @@
+{
+  "name": "dydx-funding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@dydxprotocol/v3-client": "^1.15.0",
+    "node-fetch": "^3.3.2"
+  }
+}
